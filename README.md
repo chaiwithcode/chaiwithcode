@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="#featured-work">Featured work</a> ·
-  <a href="#beyond-the-screen">Hardware &amp; delivery</a> ·
-  <a href="#where-im-headed">AI journey</a>
+  <a href="#beyond-the-screen">Hardware &amp; delivery</a>
 </p>
 
 ---
@@ -53,10 +52,6 @@ XCTest · Swift Testing
 
 **On-device AI**  
 Apple Foundation Models · Native app and command-line integrations
-
-## Where I'm headed
-
-I'm working toward becoming a proficient **AI engineer**, building on my Apple development experience. FoundationBuddy and TerminalBuddy are practical steps in that direction: exploring how on-device models can become useful features in apps and developer workflows.
 
 ## Earlier work
 
