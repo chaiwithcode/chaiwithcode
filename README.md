@@ -1,4 +1,4 @@
-<h1 align="center">Deepak Sharma</h1>
+<h1 align="center">ChaiWithCode</h1>
 
 <p align="center">
   <strong>Apple Platform Developer · Since 2014</strong><br>
@@ -58,7 +58,7 @@ Apple Foundation Models · Native app and command-line integrations
 - **[IDLocalizationManager](https://github.com/chaiwithcode/IDLocalizationManager-iOS)** — An Objective-C utility for changing an app's language without changing the system language.
 - **[QuickMacSetUp](https://github.com/chaiwithcode/QuickMacSetUp)** — Personal Mac setup scripts and configuration notes.
 
-## Chai with Code
+## ChaiWithCode
 
 The name is personal: I'm an avid tea drinker, and a cup of chai is my favourite companion while writing code.
 
