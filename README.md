@@ -1,60 +1,73 @@
 <h1 align="center">Deepak Sharma</h1>
 
 <p align="center">
-  <strong>Apple platforms · On-device AI · Developer tools</strong><br>
-  Building native apps and tools that make everyday development easier.
+  <strong>Apple Platform Developer · Since 2014</strong><br>
+  Native apps. Connected devices. Developer tools.
 </p>
 
 <p align="center">
-  <a href="https://github.com/chaiwithcode/Xbridge">XBridge</a> ·
-  <a href="https://github.com/chaiwithcode/FoundationBuddy">FoundationBuddy</a> ·
-  <a href="https://github.com/chaiwithcode/TerminalBuddy">TerminalBuddy</a> ·
-  <a href="https://chaiwithcode.github.io/naviik/">Naviik</a>
+  macOS · iOS · watchOS · visionOS<br>
+  Exploring what's next with on-device AI.
+</p>
+
+<p align="center">
+  <a href="#featured-work">Featured work</a> ·
+  <a href="#beyond-the-screen">Hardware &amp; delivery</a> ·
+  <a href="#where-im-headed">AI journey</a>
 </p>
 
 ---
 
-I'm Deepak, the developer behind **Chai with Code**. I build for iOS and macOS, explore Apple's on-device AI, and create tools that help developers build, test, and ship their apps.
+I'm Deepak, the developer behind **Chai with Code**. I've been developing for Apple platforms since 2014, with work spanning apps, connected devices, and tools that make development easier.
 
-My work spans Swift and SwiftUI apps, Objective-C utilities, and TypeScript tooling that connects the Apple development ecosystem with VS Code.
+My interest in Apple began in the Hackintosh community, experimenting with hardware and macOS. That curiosity grew into a career building across Apple's ecosystem—and now into a focus on AI engineering.
 
 ## Featured work
 
-| Project | What it does | Focus |
-| :--- | :--- | :--- |
-| **[XBridge](https://github.com/chaiwithcode/Xbridge)** | Build, test, and run Xcode projects from VS Code, with simulator and device controls, Test Explorer integration, and tools for AI coding agents. | Developer tooling · TypeScript |
-| **[FoundationBuddy](https://github.com/chaiwithcode/FoundationBuddy)** | A native iOS AI companion built with Apple's Foundation Models, streaming responses, and a Liquid Glass interface. | SwiftUI · On-device AI |
-| **[TerminalBuddy](https://github.com/chaiwithcode/TerminalBuddy)** | Bring Apple's Foundation Models to the command line for on-device conversations in your terminal. | Swift · macOS · CLI |
-| **[Naviik](https://chaiwithcode.github.io/naviik/)** | A smart TV remote for Google TV and Android TV, with Quick Launch and Siri shortcuts. See the product preview; the App Store link is coming soon. | iOS · Everyday utilities |
+| Project | What you can explore |
+| :--- | :--- |
+| **[XBridge](https://github.com/chaiwithcode/Xbridge)** | Build, test, and run Xcode projects from VS Code. Simulator and device controls, XCTest and Swift Testing integration, inline diagnostics, and tools for AI coding agents. |
+| **[FoundationBuddy](https://github.com/chaiwithcode/FoundationBuddy)** | An iOS AI companion built with SwiftUI and Apple's Foundation Models, featuring on-device responses, streaming, and a Liquid Glass interface. |
+| **[TerminalBuddy](https://github.com/chaiwithcode/TerminalBuddy)** | Apple's Foundation Models in your terminal: a Swift command-line tool for on-device AI conversations on your Mac. |
+| **[Naviik](https://chaiwithcode.github.io/naviik/)** | A smart TV remote for Google TV and Android TV, with Quick Launch and Siri shortcuts. Product preview available; App Store release coming soon. |
 
-## Start with XBridge
+**Try XBridge:** [See the demo →](https://github.com/chaiwithcode/Xbridge#see-xbridge-in-action) · [Install from the VS Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=chaiwithcode.xbridge)
 
-**Keep your everyday Xcode workflow inside VS Code.**
+## Beyond the screen
 
-XBridge brings together project and destination selection, builds, tests, inline diagnostics, and app launch controls. It also exposes dedicated tools that let compatible AI coding agents interact with your Xcode projects.
+Some of my most interesting work connects software with the physical world:
 
-- **Build and run** on simulators and connected Apple devices.
-- **Run XCTest and Swift Testing** from VS Code's Test Explorer.
-- **Inspect failures** through inline diagnostics and structured agent tools.
-
-[Explore the code and demo →](https://github.com/chaiwithcode/Xbridge#see-xbridge-in-action) · [Install from the VS Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=chaiwithcode.xbridge)
+- **Connected devices:** Worked on Apple platform integrations involving heart rate monitors, breathalyzers, and smart scales.
+- **Robotics:** Built a proof-of-concept robot using Arduino and an iPad.
+- **Build and delivery:** Experience with Jenkins and CI/CD for development workflows.
 
 ## What I work with
 
-**Apple development**  
-Swift · SwiftUI · Objective-C · Xcode · iOS · macOS
+**Native development**  
+Swift · SwiftUI · Objective-C · Xcode  
+macOS · iOS · watchOS · visionOS
 
-**AI and developer tooling**  
-Apple Foundation Models · TypeScript · VS Code extensions · XCTest · Swift Testing · Shell scripting
+**Tools and delivery**  
+TypeScript · VS Code extensions · Jenkins · CI/CD · Shell scripting  
+XCTest · Swift Testing
 
-## More from my workbench
+**On-device AI**  
+Apple Foundation Models · Native app and command-line integrations
+
+## Where I'm headed
+
+I'm working toward becoming a proficient **AI engineer**, building on my Apple development experience. FoundationBuddy and TerminalBuddy are practical steps in that direction: exploring how on-device models can become useful features in apps and developer workflows.
+
+## Earlier work
 
 - **[IDLocalizationManager](https://github.com/chaiwithcode/IDLocalizationManager-iOS)** — An Objective-C utility for changing an app's language without changing the system language.
 - **[QuickMacSetUp](https://github.com/chaiwithcode/QuickMacSetUp)** — Personal Mac setup scripts and configuration notes.
 
-## Build with me
+## Chai with Code
 
-Explore a project, try it out, or open an issue with feedback or an idea. Contributions are welcome in the project repositories.
+The name is personal: I'm an avid tea drinker, and a cup of chai is my favourite companion while writing code.
+
+Interested in Apple apps, connected devices, or developer tools? Explore the projects, try something out, or open an issue with feedback or an idea.
 
 [Browse my repositories →](https://github.com/chaiwithcode?tab=repositories)
 
